@@ -1,0 +1,11 @@
+url,length,https,numbers,at_symbol,hyphen,keyword,label
+https://google.com,18,1,0,0,0,0,Safe
+https://youtube.com,19,1,0,0,0,0,Safe
+https://amazon.in,17,1,0,0,0,0,Safe
+http://192.168.1.1/paypal-security-login@verify.com,52,0,1,1,1,1,Phishing
+http://bank-update-login.com,28,0,0,0,1,1,Phishing
+http://verify-account-security.com,34,0,0,0,1,1,Phishing
+https://facebook.com,20,1,0,0,0,0,Safe
+https://wikipedia.org,21,1,0,0,0,0,Safe
+http://login-bank-update.net,30,0,0,0,1,1,Phishing
+https://github.com,18,1,0,0,0,0,Safe

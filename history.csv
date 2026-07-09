@@ -1,0 +1,6 @@
+URL,Prediction,Date
+https://google.com,Safe,2026-06-13 16:51:17
+http://192.168.1.1/paypal-security-login@verify.com,Phishing,2026-06-13 19:39:51
+http://localhost:8080/phpmyadmin,Safe,2026-06-13 19:41:49
+http://192.168.1.1/paypal-security-login@verify.com,Phishing,2026-06-13 22:05:03
+http://www.g00gle.com,Safe,2026-06-15 13:41:06
