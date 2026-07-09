@@ -159,14 +159,39 @@ java GUI
 
 #  Screenshots
 
-Add screenshots here:
+## Home Screen
 
-- Home Screen
-- Safe Website Detection
-- Phishing Website Detection
-- Browser Extension
-- History
-- Export CSV
+![Home Screen](screenshots/home.png)
+
+---
+
+## Safe Website Detection
+
+![Safe Website](screenshots/safe.png)
+
+---
+
+## Phishing Website Detection
+
+![Phishing Website](screenshots/phishing.png)
+
+---
+
+## History
+
+![History](screenshots/history.png)
+
+---
+
+## Export CSV
+
+![Export CSV](screenshots/export.png)
+
+---
+
+## Browser Extension
+
+![Browser Extension](screenshots/extension.png)
 
 ---
 
